@@ -1,6 +1,6 @@
 # NO WARRANTY
 
-Data here are roughly collected. You should never refer to these results for any serious purpose.
+Data are roughly collected. You should never refer to these results for any serious purpose.
 
 ## Tool
 
