@@ -1,6 +1,6 @@
 # NO WARRANTY
 
-Data are roughly collected. You should never refer to these results for any serious purpose.
+Data are roughly collected. You should never rely on these results for any serious purpose.
 
 ## Tool
 
@@ -92,4 +92,10 @@ gost -L relay+wss://:8080/172.17.0.1:5201 2>/dev/null
 
 ## Result
 
-TODO
+Memory Usage:
+
+![TCP Memory](tcp_mem.png)
+
+![WS Memory](ws_mem.png)
+
+![WSS Memory](wss_mem.png)
