@@ -1,5 +1,3 @@
-Connecting to host 172.17.0.2, port 8080
-[  5] local 172.17.0.1 port 53070 connected to 172.17.0.2 port 8080
 [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
 [  5]   0.00-1.00   sec  1.64 GBytes  14.0 Gbits/sec    0   2.06 MBytes       
 [  5]   1.00-2.00   sec  1.25 GBytes  10.7 Gbits/sec    2   2.76 MBytes       

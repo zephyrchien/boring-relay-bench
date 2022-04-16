@@ -92,10 +92,17 @@ gost -L relay+wss://:8080/172.17.0.1:5201 2>/dev/null
 
 ## Result
 
-Memory Usage:
+TCP:
 
-TCP: ![TCP Memory](tcp_mem.png)
+![TCP Bandwidth](tcp_iperf.png)
+![TCP Memory](tcp_mem.png)
 
-WS: ![WS Memory](ws_mem.png)
+WS:
 
-WSS: ![WSS Memory](wss_mem.png)
+![WS Bandwidth](ws_iperf.png)
+![WS Memory](ws_mem.png)
+
+WSS:
+
+![WSS Bandwidth](wss_iperf.png)
+![WSS Memory](wss_mem.png)
