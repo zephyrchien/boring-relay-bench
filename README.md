@@ -94,8 +94,8 @@ gost -L relay+wss://:8080/172.17.0.1:5201 2>/dev/null
 
 Memory Usage:
 
-![TCP Memory](tcp_mem.png)
+TCP: ![TCP Memory](tcp_mem.png)
 
-![WS Memory](ws_mem.png)
+WS: ![WS Memory](ws_mem.png)
 
-![WSS Memory](wss_mem.png)
+WSS: ![WSS Memory](wss_mem.png)

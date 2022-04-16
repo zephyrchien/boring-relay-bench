@@ -31,7 +31,7 @@ def ws_mem():
     with open('mem.json') as fp:
         mem = json.load(fp)['ws']
 
-    plt.figure(figsize=(12, 9))
+    plt.figure(figsize=(12, 14))
 
     plt.subplot(211)
     plt.title('WS Sender Memory Usage')
@@ -65,7 +65,7 @@ def wss_mem():
     with open('mem.json') as fp:
         mem = json.load(fp)['wss']
 
-    plt.figure(figsize=(12, 9))
+    plt.figure(figsize=(12, 14))
 
     plt.subplot(211)
     plt.title('WSS Sender Memory Usage')
